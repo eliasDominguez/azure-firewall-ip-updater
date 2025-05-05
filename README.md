@@ -17,5 +17,4 @@ Este script permite actualizar automáticamente la IP pública de tu máquina en
 ## 🛠️ Uso
 
 ```bash
-chmod +x actualizar_ip.sh
-./actualizar_ip.sh
+ ./actualizar-firewall-nueva-ip.bash
